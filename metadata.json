@@ -1,0 +1,6 @@
+{
+  "name": "Minh Khải MKT",
+  "description": "Giải pháp phần mềm đăng bài tự động, quét UID, và tối ưu hóa Facebook Marketing toàn diện cho môi giới và doanh nghiệp bất động sản 4.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
